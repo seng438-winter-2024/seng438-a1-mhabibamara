@@ -47,7 +47,7 @@ The manual functional testing was a hands-on experience in which the testers man
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Upon reviewing the other pairs' defect reports, we were surprised that we found many similarities between our test cases, and we believe this is because we coincidentally had the same approach to each testing methodology. Both pairs had tested the withdrawal, deposit, account transfer, and balance checking transactions, this is because those are the most basic functionalities of the ATM system, and only natural for everyone to test them equally. The clarity of each other’s report allowed us to quickly and efficiently gather our defects and facilitate quick error identification. There were very few differences, such as the transaction amounts that were entered and the unchecked receipt log after the transactions were done. Through the tests conducted amongst each pair, our attention to detail allowed us to enhance the thoroughness of our collective test cases, gathering a more detailed outlook on the software, and allowing us to apply an accurate assessment of the software’s functionality.
 
 # How the pair testing was managed and team work/effort was divided 
 
